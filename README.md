@@ -96,5 +96,4 @@ Feel free to contribute to this project by opening issues or submitting pull req
 
 This project is licensed under the [MIT License](LICENSE).
 ```
-
-
+customize the content as needed. consider adding more details about the project, its purpose, and how others can contribute.
