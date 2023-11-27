@@ -19,7 +19,7 @@ This is a simple Node.js project demonstrating the usage of Express.js for creat
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/dummyapi-express-validator.git
+   git clone https://github.com/Farhan-x001/dummyapi-express-validator.git
    ```
 
 2. Navigate to the project directory:
@@ -97,4 +97,4 @@ Feel free to contribute to this project by opening issues or submitting pull req
 This project is licensed under the [MIT License](LICENSE).
 ```
 
-Replace placeholders like `your-username` and customize the content as needed. Also, consider adding more details about the project, its purpose, and how others can contribute.
+
